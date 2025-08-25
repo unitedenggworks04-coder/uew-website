@@ -1,0 +1,21 @@
+# Email Configuration for RFQ Form
+# Copy this content to a new file called .env.local and fill in your actual values
+
+# Gmail account for sending emails
+EMAIL_USER=unitedenggworks04@gmail.com
+
+# Gmail App Password (NOT your regular password)
+# Generate this in your Google Account settings under Security > 2-Step Verification > App passwords
+EMAIL_APP_PASSWORD=your_gmail_app_password_here
+
+# Alternative: Use regular password (less secure, not recommended)
+# EMAIL_PASS=your_gmail_password_here
+
+# Base URL for the website
+NEXT_PUBLIC_BASE_URL=https://uew.com
+
+# Note: 
+# 1. Gmail requires "Less secure app access" to be enabled OR use App Passwords
+# 2. App Passwords are more secure and recommended
+# 3. Make sure to add .env.local to your .gitignore file
+# 4. Restart your development server after adding these environment variables

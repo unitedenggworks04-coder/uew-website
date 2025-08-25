@@ -1,0 +1,52 @@
+{
+  "slug": "brass-bushes",
+  "name": "BRASS BUSHES",
+  "category": "engineering",
+  "materials": ["Brass C360", "Brass C464", "Brass C485", "Lead-free Brass"],
+  "sizes": {
+    "diameter": ["10mm", "15mm", "20mm", "25mm", "30mm", "35mm", "40mm", "50mm"],
+    "length": ["15mm", "20mm", "25mm", "30mm", "35mm", "40mm", "50mm", "60mm"],
+    "wall_thickness": ["2mm", "3mm", "4mm", "5mm", "6mm", "8mm"]
+  },
+  "tolerance": {
+    "diameter": "±0.015mm",
+    "length": "±0.03mm",
+    "concentricity": "≤0.008mm",
+    "surface_finish": "Ra 0.6μm"
+  },
+  "applications": [
+    "Hydraulic systems",
+    "Pneumatic equipment",
+    "Conveyor systems",
+    "Packaging machinery",
+    "Textile machinery",
+    "Food processing equipment"
+  ],
+  "image": "/products/brass-bushes.jpg",
+  "brochure": "/brochures/brass-bushes-specs.pdf",
+  "seo": {
+    "title": "Brass Bushes - High-Quality Engineering Components | UEW",
+    "description": "Premium brass bushes for industrial applications. Excellent wear resistance, low friction, and long service life. Available in various sizes and materials.",
+    "keywords": ["brass bushes", "engineering bushes", "industrial bushes", "wear resistant bushes", "low friction bushes", "hydraulic bushes"],
+    "schema": {
+      "type": "Product",
+      "brand": "United Engineering Works",
+      "manufacturer": "United Engineering Works",
+      "category": "Engineering Components"
+    }
+  },
+  "specifications": {
+    "working_temperature": "-20°C to +150°C",
+    "load_capacity": "Up to 3000kg",
+    "lubrication": "Self-lubricating or oil-impregnated",
+    "standards": ["ISO 9001:2015", "Industrial Standards", "Food Grade Available"]
+  },
+  "features": [
+    "High-quality brass material",
+    "Excellent wear resistance",
+    "Low friction operation",
+    "Long service life",
+    "Corrosion resistant",
+    "Food grade options available"
+  ]
+}

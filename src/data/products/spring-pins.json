@@ -1,0 +1,52 @@
+{
+  "slug": "spring-pins",
+  "name": "SPRING PINS",
+  "category": "automotive",
+  "materials": ["Spring Steel", "Stainless Steel", "Carbon Steel", "Alloy Steel"],
+  "sizes": {
+    "diameter": ["3mm", "4mm", "5mm", "6mm", "8mm", "10mm", "12mm", "16mm"],
+    "length": ["8mm", "10mm", "12mm", "15mm", "18mm", "20mm", "25mm", "30mm", "35mm"],
+    "wall_thickness": ["0.5mm", "0.6mm", "0.8mm", "1.0mm", "1.2mm", "1.5mm"]
+  },
+  "tolerance": {
+    "diameter": "±0.01mm",
+    "length": "±0.02mm",
+    "spring_force": "±5%",
+    "surface_finish": "Ra 0.4μm"
+  },
+  "applications": [
+    "Automotive assemblies",
+    "Engine components",
+    "Transmission systems",
+    "Suspension components",
+    "Brake systems",
+    "General machinery"
+  ],
+  "image": "/products/spring-pins.jpg",
+  "brochure": "/brochures/spring-pins-specs.pdf",
+  "seo": {
+    "title": "Spring Pins - Reliable Fastening Solutions | UEW",
+    "description": "High-quality spring pins for automotive and industrial applications. Secure connections that withstand vibration and stress. Available in various sizes and materials.",
+    "keywords": ["spring pins", "automotive pins", "fastening pins", "vibration resistant pins", "engine pins", "transmission pins"],
+    "schema": {
+      "type": "Product",
+      "brand": "United Engineering Works",
+      "manufacturer": "United Engineering Works",
+      "category": "Automotive Components"
+    }
+  },
+  "specifications": {
+    "working_temperature": "-50°C to +150°C",
+    "shear_strength": "Up to 800 MPa",
+    "tensile_strength": "Up to 1200 MPa",
+    "standards": ["ISO 9001:2015", "Automotive Standards", "DIN 1481", "ANSI B18.8.2"]
+  },
+  "features": [
+    "Reliable fastening",
+    "Automotive assemblies",
+    "Vibration resistant",
+    "Secure connections",
+    "High strength materials",
+    "Precision manufacturing"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "bellcrank-bushes",
+  "name": "BELLCRANK BUSHES",
+  "category": "engineering",
+  "materials": ["Brass", "Bronze", "Steel", "Stainless Steel"],
+  "sizes": {
+    "diameter": ["12mm", "15mm", "18mm", "20mm", "25mm", "30mm"],
+    "length": ["20mm", "25mm", "30mm", "35mm", "40mm", "45mm"],
+    "wall_thickness": ["2mm", "3mm", "4mm", "5mm", "6mm"]
+  },
+  "tolerance": {
+    "diameter": "±0.012mm",
+    "length": "±0.025mm",
+    "concentricity": "≤0.006mm",
+    "surface_finish": "Ra 0.5μm"
+  },
+  "applications": [
+    "Control systems",
+    "Mechanical linkages",
+    "Aircraft control surfaces",
+    "Automotive control systems",
+    "Industrial automation",
+    "Precision machinery"
+  ],
+  "image": "/products/bellcrank-bushes.jpg",
+  "brochure": "/brochures/bellcrank-bushes-specs.pdf",
+  "seo": {
+    "title": "Bellcrank Bushes - Precision Control System Components | UEW",
+    "description": "High-precision bellcrank bushes for control systems and mechanical linkages. Engineered for accurate operation and reliable performance.",
+    "keywords": ["bellcrank bushes", "control system bushes", "mechanical linkage bushes", "precision bushes", "automation bushes", "aircraft bushes"],
+    "schema": {
+      "type": "Product",
+      "brand": "United Engineering Works",
+      "manufacturer": "United Engineering Works",
+      "category": "Engineering Components"
+    }
+  },
+  "specifications": {
+    "working_temperature": "-40°C to +100°C",
+    "load_capacity": "Up to 2000kg",
+    "lubrication": "Self-lubricating or precision lubricated",
+    "standards": ["ISO 9001:2015", "Precision Engineering Standards", "Aerospace Grade Available"]
+  },
+  "features": [
+    "Precise mechanical movement",
+    "Control system applications",
+    "Accurate operation",
+    "Reliable performance",
+    "High precision manufacturing",
+    "Low backlash design"
+  ]
+}

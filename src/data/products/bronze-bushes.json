@@ -1,0 +1,52 @@
+{
+  "slug": "bronze-bushes",
+  "name": "BRONZE BUSHES",
+  "category": "industrial",
+  "materials": ["Phosphor Bronze", "Aluminum Bronze", "Silicon Bronze", "Tin Bronze"],
+  "sizes": {
+    "diameter": ["20mm", "25mm", "30mm", "35mm", "40mm", "45mm", "50mm", "60mm", "80mm"],
+    "length": ["25mm", "30mm", "35mm", "40mm", "50mm", "60mm", "70mm", "80mm", "100mm"],
+    "wall_thickness": ["3mm", "4mm", "5mm", "6mm", "8mm", "10mm", "12mm"]
+  },
+  "tolerance": {
+    "diameter": "±0.02mm",
+    "length": "±0.04mm",
+    "concentricity": "≤0.01mm",
+    "surface_finish": "Ra 0.8μm"
+  },
+  "applications": [
+    "Heavy machinery bearings",
+    "Mining equipment",
+    "Construction machinery",
+    "Marine applications",
+    "Steel mill equipment",
+    "Power generation equipment"
+  ],
+  "image": "/products/bronze-bushes.jpg",
+  "brochure": "/brochures/bronze-bushes-specs.pdf",
+  "seo": {
+    "title": "Bronze Bushes - Heavy-Duty Industrial Bearings | UEW",
+    "description": "Superior bronze bushes for demanding industrial applications. High load capacity, excellent wear resistance, and long service life in harsh environments.",
+    "keywords": ["bronze bushes", "industrial bushes", "heavy-duty bushes", "mining equipment bushes", "construction machinery bushes", "marine bushes"],
+    "schema": {
+      "type": "Product",
+      "brand": "United Engineering Works",
+      "manufacturer": "United Engineering Works",
+      "category": "Industrial Components"
+    }
+  },
+  "specifications": {
+    "working_temperature": "-30°C to +200°C",
+    "load_capacity": "Up to 8000kg",
+    "lubrication": "Grease-packed or oil-lubricated",
+    "standards": ["ISO 9001:2015", "Industrial Standards", "Marine Grade Available"]
+  },
+  "features": [
+    "Superior wear resistance",
+    "Heavy-duty applications",
+    "High load capacity",
+    "Corrosion resistant",
+    "Marine grade options",
+    "Extended service life"
+  ]
+}

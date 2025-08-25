@@ -1,0 +1,52 @@
+{
+  "slug": "washers",
+  "name": "WASHERS",
+  "category": "engineering",
+  "materials": ["Steel", "Stainless Steel", "Brass", "Copper", "Aluminum", "Plastic"],
+  "sizes": {
+    "inner_diameter": ["3mm", "4mm", "5mm", "6mm", "8mm", "10mm", "12mm", "16mm", "20mm", "24mm"],
+    "outer_diameter": ["8mm", "10mm", "12mm", "15mm", "18mm", "20mm", "24mm", "30mm", "36mm", "44mm"],
+    "thickness": ["0.5mm", "0.8mm", "1.0mm", "1.2mm", "1.5mm", "2.0mm", "2.5mm", "3.0mm"]
+  },
+  "tolerance": {
+    "inner_diameter": "±0.02mm",
+    "outer_diameter": "±0.03mm",
+    "thickness": "±0.05mm",
+    "parallelism": "≤0.02mm"
+  },
+  "applications": [
+    "Bolt and nut assemblies",
+    "Automotive components",
+    "Construction equipment",
+    "Industrial machinery",
+    "Electrical installations",
+    "Plumbing systems"
+  ],
+  "image": "/products/washers.jpg",
+  "brochure": "/brochures/washers-specs.pdf",
+  "seo": {
+    "title": "Washers - Precision Fastening Components | UEW",
+    "description": "High-quality washers for secure connections in automotive, construction, and industrial applications. Precision manufacturing with various materials and sizes.",
+    "keywords": ["washers", "fastening washers", "bolt washers", "automotive washers", "construction washers", "industrial washers"],
+    "schema": {
+      "type": "Product",
+      "brand": "United Engineering Works",
+      "manufacturer": "United Engineering Works",
+      "category": "Engineering Components"
+    }
+  },
+  "specifications": {
+    "working_temperature": "-60°C to +200°C",
+    "load_capacity": "Up to 5000kg",
+    "corrosion_resistance": "Available in various grades",
+    "standards": ["ISO 9001:2015", "DIN 125", "ANSI B18.22.1", "JIS B1256"]
+  },
+  "features": [
+    "Precision flat design",
+    "Secure connections",
+    "Bolt and nut assembly",
+    "Quality construction",
+    "Various materials available",
+    "Corrosion resistant options"
+  ]
+}

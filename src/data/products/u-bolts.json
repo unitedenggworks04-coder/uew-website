@@ -1,0 +1,52 @@
+{
+  "slug": "u-bolts",
+  "name": "U-BOLTS",
+  "category": "automotive",
+  "materials": ["Carbon Steel", "Alloy Steel", "Stainless Steel", "Galvanized Steel"],
+  "sizes": {
+    "thread_diameter": ["M8", "M10", "M12", "M16", "M20", "M24", "M30", "M36"],
+    "leg_length": ["40mm", "50mm", "60mm", "70mm", "80mm", "100mm", "120mm", "150mm"],
+    "bend_radius": ["15mm", "20mm", "25mm", "30mm", "35mm", "40mm", "50mm", "60mm"]
+  },
+  "tolerance": {
+    "thread_diameter": "±0.1mm",
+    "leg_length": "±0.5mm",
+    "bend_radius": "±0.3mm",
+    "thread_pitch": "Standard ISO threads"
+  },
+  "applications": [
+    "Truck and trailer mounting",
+    "Exhaust system mounting",
+    "Suspension components",
+    "Frame mounting",
+    "Equipment mounting",
+    "Heavy machinery"
+  ],
+  "image": "/products/u-bolts.jpg",
+  "brochure": "/brochures/u-bolts-specs.pdf",
+  "seo": {
+    "title": "U-Bolts - Heavy-Duty Fastening for Trucks & Trailers | UEW",
+    "description": "Robust U-bolts for truck, trailer, and heavy machinery applications. High-strength materials with various sizes and finishes for demanding environments.",
+    "keywords": ["u-bolts", "truck u-bolts", "trailer u-bolts", "exhaust u-bolts", "suspension u-bolts", "heavy-duty fasteners"],
+    "schema": {
+      "type": "Product",
+      "brand": "United Engineering Works",
+      "manufacturer": "United Engineering Works",
+      "category": "Automotive Components"
+    }
+  },
+  "specifications": {
+    "working_temperature": "-40°C to +300°C",
+    "tensile_strength": "Up to 1000 MPa",
+    "yield_strength": "Up to 800 MPa",
+    "standards": ["ISO 9001:2015", "Automotive Standards", "DIN 3570", "ANSI B18.2.1"]
+  },
+  "features": [
+    "Heavy-duty construction",
+    "Truck and trailer use",
+    "Robust fastening",
+    "Transportation applications",
+    "High strength materials",
+    "Corrosion resistant finishes"
+  ]
+}

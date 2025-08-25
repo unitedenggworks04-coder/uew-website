@@ -1,0 +1,50 @@
+{
+  "slug": "king-pin-bushes",
+  "name": "KING PIN BUSHES",
+  "category": "automotive",
+  "materials": ["Brass", "Bronze", "Steel", "Composite"],
+  "sizes": {
+    "diameter": ["25mm", "30mm", "35mm", "40mm", "45mm", "50mm"],
+    "length": ["40mm", "50mm", "60mm", "70mm", "80mm", "90mm"],
+    "wall_thickness": ["3mm", "4mm", "5mm", "6mm", "8mm"]
+  },
+  "tolerance": {
+    "diameter": "±0.02mm",
+    "length": "±0.05mm",
+    "concentricity": "≤0.01mm",
+    "surface_finish": "Ra 0.8μm"
+  },
+  "applications": [
+    "Truck steering systems",
+    "Trailer king pin assemblies",
+    "Commercial vehicle steering",
+    "Heavy-duty steering applications",
+    "Agricultural machinery steering"
+  ],
+  "image": "/products/king-pin-bushes.jpg",
+  "brochure": "/brochures/king-pin-bushes-specs.pdf",
+  "seo": {
+    "title": "King Pin Bushes - Precision Steering Components | UEW",
+    "description": "High-quality king pin bushes for truck and trailer steering systems. Precision-engineered with brass, bronze, and steel materials. ISO certified quality.",
+    "keywords": ["king pin bushes", "steering bushes", "truck steering", "trailer components", "automotive bushes", "steering system parts"],
+    "schema": {
+      "type": "Product",
+      "brand": "United Engineering Works",
+      "manufacturer": "United Engineering Works",
+      "category": "Automotive Components"
+    }
+  },
+  "specifications": {
+    "working_temperature": "-40°C to +120°C",
+    "load_capacity": "Up to 5000kg",
+    "lubrication": "Self-lubricating or grease-packed",
+    "standards": ["ISO 9001:2015", "Automotive Industry Standards"]
+  },
+  "features": [
+    "High precision manufacturing",
+    "Optimal steering performance",
+    "Durable construction",
+    "Corrosion resistance",
+    "Low friction operation"
+  ]
+}
